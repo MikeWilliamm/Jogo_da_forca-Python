@@ -19,6 +19,7 @@ Após digitado a primeira letra, e suponhando que essa letra não exista na pala
 
 
 Quando o usuário acertar uma letra da palavra secreta, essa letra será adicionada ao espaço correto e também irá para a lista de letras já digitadas.
+
 <p align="center">
   <img  src="prints/3_tela_acerto.png"><br>
   <b>Tela de acerto</b>
