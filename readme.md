@@ -20,10 +20,12 @@ Após digitado a primeira letra, e suponhando que essa letra não exista na pala
 
 Quando o usuário acertar uma letra da palavra secreta, essa letra será adicionada ao espaço correto e também irá para a lista de letras já digitadas.
 
+
 <p align="center">
   <img  src="prints/3_tela_acerto.png"><br>
   <b>Tela de acerto</b>
 </p>
+
 
 Quando faltar duas letras para o usuário acertar a palavra, será contado 5 segundos e em seguida o usuário devera acertar todo restante da palavra, caso ele erre o mesmo processo será refeito até que ele acerte toda a palavra.
 <p align="center">
