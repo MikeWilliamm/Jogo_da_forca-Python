@@ -2,8 +2,8 @@
 Ao executar o programa com a <b>.bat</b>, é apresentada a tela inicial, onde se pode visualizar a quantidade de letras que a palavra secreta possui com os <b>'_'</b>, a digitação de uma única letra estará disponível.
 <br>
 <p align="center">
+<b> Tela inicial </b>
   <img  src="prints/1_tela_inicial.png">
-  <b> Tela inicial </b>
 </p>
 <br>
 Após digitado a primeira letra, e suponhando que essa letra não exista na palavra secreta, é informado que o usuário errou e essa letra digitada já é acrescentada na lista visual de letras já digitadas.
