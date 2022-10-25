@@ -10,10 +10,13 @@ Ao executar o programa com a <b>.bat</b>, é apresentada a tela inicial, onde se
 <br>
 Após digitado a primeira letra, e suponhando que essa letra não exista na palavra secreta, é informado que o usuário errou e essa letra digitada já é acrescentada na lista visual de letras já digitadas.
 <br>
+
 <p align="center">
-  <img  src="prints/2_tela_error.png">
-  <b> Tela de erro </b>
+  <img  src="prints/2_tela_error.png"><br>
+  <b>Tela de erro</b>
 </p>
+
+
 <br>
 Quando o usuário acertar uma letra da palavra secreta, essa letra será adicionada ao espaço correto e também irá para a lista de letras já digitadas.
 <p align="center">
