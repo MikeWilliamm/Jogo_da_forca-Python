@@ -29,7 +29,8 @@ Quando o usuário acertar uma letra da palavra secreta, essa letra será adicion
 
 
 Quando faltar duas letras para o usuário acertar a palavra, será contado 5 segundos e em seguida o usuário devera acertar todo restante da palavra, caso ele erre o mesmo processo será refeito até que ele acerte toda a palavra.
+
 <p align="center">
-  <img  src="prints/4_tela_final.png">
-  <b> Tela final </b>
+  <img  src="prints/4_tela_final.png"><br>
+  <b>Tela final</b>
 </p>
